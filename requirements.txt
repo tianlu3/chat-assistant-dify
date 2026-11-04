@@ -1,0 +1,13 @@
+flask
+requests
+wechatpy
+pymysql
+pandas
+numpy
+jieba
+gensim
+snownlp
+wordcloud
+matplotlib
+pyecharts
+python-dotenv

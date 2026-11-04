@@ -1,0 +1,21 @@
+# 密钥与配置（勿提交真实文件）
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 原始对话数据（含用户内容，禁止入库）
+app/data/情感分析结果.csv
+*.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
+Thumbs.db
